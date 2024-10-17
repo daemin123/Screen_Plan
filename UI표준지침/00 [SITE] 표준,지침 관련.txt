@@ -1,0 +1,32 @@
+1) 정보처리기사 UI 표준 및 지침
+https://velog.io/@ssook1222/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-UI-%ED%91%9C%EC%A4%80-%EB%B0%8F-%EC%A7%80%EC%B9%A8
+
+2) 정보처리기사 UI 표준 및 지침
+https://comengin.tistory.com/367
+
+3) 정보처리기사 UI 표준 및 지침
+https://juna-dev.tistory.com/25
+
+4) 웹표준 관련 심플정보
+http://www.smartebiz.kr/new/subpage02_02.html
+
+5) 웹표준-나무위키(중요!)
+https://namu.wiki/w/%EC%9B%B9%20%ED%91%9C%EC%A4%80?from=%EC%9B%B9%ED%91%9C%EC%A4%80
+
+
+6) 웹 역사 웹툰(중요)
+https://www.thisisgame.com/webzine/nboard/213/?n=56672
+
+
+7) 전자정부 웹사이트 UI 가이드 라인 배포(지침?)
+https://mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000045&nttId=69451#none
+
+-- 민간업체 지침도 찾아보기
+
+
+8) 한국형 웹 콘텐츠 접근성 지침2.1(중요)
+https://www.wah.or.kr:444/Participation/guide.asp
+
+
+
+
